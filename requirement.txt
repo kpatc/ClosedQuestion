@@ -1,0 +1,16 @@
+numpy
+pandas
+requests
+matplotlib
+seaborn
+fastapi
+pydantic
+nltk
+beautifulsoup4
+sklearn
+xgboost
+transformers
+torch
+gensim==4.2.0
+texthero==1.0.5
+unidecode

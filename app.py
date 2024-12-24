@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 import torch
 from transformers import BertModel ,BertTokenizer
-from text_mining import remove_punctuation ,clean_text
+from data.cleaning import remove_punctuation ,clean_text
 import texthero as hero
 import nltk
 #charger le corpus de stopwords

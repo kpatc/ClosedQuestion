@@ -42,7 +42,7 @@ ClosedQuestion/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ClosedQuestion.git
+   git clone https://github.com/kpatc/ClosedQuestion/
    cd ClosedQuestion
    ```
 

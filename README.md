@@ -72,7 +72,10 @@ ClosedQuestion/
   Example input JSON:
   ```json
   {
+    "user_id": 23324
     "title": "How to reverse a list in Python?",
+    "reputation": 8
+    "answer_count": 34
     "body": "I want to reverse a list in Python. Any suggestions?"
   }
   ```
